@@ -12,6 +12,7 @@ public class Arrayprint {
 		int a[]= {12,34,32,33,45};
 		int b=0;
 		System.out.println("odd1 :"+b);
+		System.out.println("chnages test in git");
 		
 		int res=0;		
 		for(int i=0;i<a.length;i++)
